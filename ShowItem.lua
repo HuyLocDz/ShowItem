@@ -112,7 +112,7 @@
 	
 			local tvk = Instance.new("UIGridLayout", cac)
 			tvk.CellPadding = UDim2.new(.005, 0, .005, 0)
-			tvk.CellSize = UDim2.new(0, 70, 0, 70)
+			tvk.CellSize = UDim2.new(0, 40, 0, 40)
 			tvk.FillDirectionMaxCells = 100
 			tvk.FillDirection = Enum.FillDirection.Horizontal
 	
